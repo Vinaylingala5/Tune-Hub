@@ -1,0 +1,121 @@
+@charset "ISO-8859-1";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("D:\KodNest\Web\TuneHub Exp\Index\1.jpg");
+    background-size: cover;
+    background-color : black;
+}
+
+header {
+    height: 30px;
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+}
+
+.out-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 800px;
+}
+
+.in-box {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 300px;
+    width: 900px;
+    border: 2px solid grey;
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+
+}
+
+.empt-box {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: azure;
+    font-weight: 600;
+    font-size: 25px;
+    height: 200px;
+    width: 300px;
+}
+
+.empt-box p {
+    font-size: 14px;
+    padding: 20px;
+}
+
+.hr {
+    height: 150px;
+    width: 10px;
+    padding-right: 10px;
+    border-right: 2px solid white;
+}
+
+.boxes {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+    width: 300px;
+}
+
+.but {
+    height: 50px;
+    font-size: 15px;
+    font-weight: 400;
+    width: 250px;
+    color: white;
+    border-radius: 10px;
+    background-color: blueviolet;
+    border: 2px solid grey;
+    backdrop-filter: blur(5px);
+    cursor : pointer;
+}
+
+
+
+/* ----------------------------------Anime------------------*/

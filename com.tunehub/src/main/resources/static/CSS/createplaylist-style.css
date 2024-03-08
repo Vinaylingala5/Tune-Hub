@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(1.jpg);
+    background-size: cover;
+    background-color:black;
+}
+
+.out-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 800px;
+}
+
+
+
+.in-box {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 550px;
+    width: 900px;
+    border: 2px solid grey;
+    backdrop-filter: blur(20px);
+    border-radius: 10px;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+
+.main-box {
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.song-list {
+    display: flex;
+    height: 300px;
+    width: 300px;
+    padding-left: 10px;
+    flex-direction: column;
+    margin-top: -40px;
+}
+
+form {
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+}
+
+.song-check {
+
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.song-check input[type="checkbox"] {
+    margin-right: 5px;
+    transform: translateX(-40%);
+}
+
+.song-check input {
+    height: 18px;
+}
+
+
+.labeltext {
+    color: white;
+}
+
+input {
+    padding-left: 10px;
+    align-items: center;
+    height: 30px;
+    width: 300px;
+    display: flex;
+    border-radius: 5px;
+    border: 0px solid black;
+}
+
+input:focus {
+    outline: none;
+}

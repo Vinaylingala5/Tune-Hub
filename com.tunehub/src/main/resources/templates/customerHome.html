@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" th:href="@{/css/customerhome-style.css}">
+</head>
+<body>
+
+	<h2>This is customer Home</h2>
+
+	<div class="out-box">
+        <div th:unless="${isPremium}"  class="in-box" >
+            <div class="empt-box">
+                <p>Oops seems like you didnt have membership.Dont worry we got you covered !</p>
+                <p>Pay through RazorPay with the below button ⬇️ </p>
+            </div>
+            <div class="box">
+                <a href="pay"> <button class="but"> Pay </button> </a>
+            </div>
+            <div class="box">
+                <a href="logout"> <button class="but"> Log Out </button> </a>
+            </div>
+        </div>
+    </div>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+	<div th:if="${isPremium}" class="premium">
+		<table border>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Artist</th>
+					<th>Genre</th>
+					<th>Play</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr th:each="song:${songs}">
+					<td th:text="${song.name}"></td>
+					<td th:text="${song.artist}"></td>
+					<td th:text="${song.genre}"></td>
+					<td><audio controls>
+							<source th:src="${song.link}" type="audio/mpeg">
+						</audio></td>
+				</tr>
+			</tbody>
+		</table>
+		<a href="logout">LogOut</a>
+	</div>
+</body>
+</html>

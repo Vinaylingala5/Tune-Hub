@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" th:href="@{/css/login-style.css}">
+</head>
+<body>
+	<div class="out-box">
+        <div class="in-box">
+            <div class="empt-box">
+                <h1> TuneHub. </h1>
+                <p>We missed you !</p>
+            </div>
+            <div class="hr">
+            </div>
+            <div class="boxes">
+                <form action="validate" method="post">
+                    <label class="labeltext"> Email : </label> 
+                    <br> 
+                    <input class="email-box" type="email" name="email" placeholder="@email.com"/><br>
+                    <label class="labeltext"> Password : </label>
+                    <br> 
+                    <input type="password" name="password" placeholder="******"/>
+                    <br><br>
+                    <input style="height: 40px;
+                    			  background-color: blueviolet;
+                                   color: white;
+                                   font-weight: 400;
+                                   border: 2px solid gray;
+                    			  display: flex;
+                    			  cursor : pointer;
+                    			  justify-content: center; 
+                    			  padding-left: -10px;" id="submit" type="submit" value="Login" />
+                </form>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

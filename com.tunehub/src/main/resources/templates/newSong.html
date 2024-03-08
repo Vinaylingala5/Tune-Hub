@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" th:href="@{/css/newsong-style.css}">
+</head>
+<body>
+	 <div class="out-box">
+        <div class="in-box">
+            <div class="empt-box">
+                <p>Add the song details!</p>
+            </div>
+            <div class="hr">
+            </div>
+            <div class="boxes">
+                <form action="addSong" method="post">
+                    <label class="labeltext">Song Name : </label>
+                    <input type="text" name="name"/><br>
+                    
+                    <label class="labeltext">Song Artist : </label>
+                    <input type="text" name="artist"/><br>
+                    
+                    <label class="labeltext">Song Genre : </label>
+                    <input type="text" name="genre"/><br>
+                    
+                    <label class="labeltext">Song Link : </label>
+                    <input type="text" name="link"/><br>
+                    
+
+
+                    <input style="background-color: blueviolet;
+                                   height: 40px; 
+                                   color: white;
+                                   display: flex;
+                                   font-weight: 400;
+                                   border: 2px solid gray;
+                                   justify-content: center; 
+                                   padding-left: -10px;" id="submit" type="submit" value="Add Song" />
+                </form>
+            </div>
+        </div>
+    </div>
+	<!-- <form action="addSong" method="post">
+		<label>Song Name : </label>
+		<input type="text" name="name"/><br>
+		
+		<label>Song Artist : </label>
+		<input type="text" name="artist"/><br>
+		
+		<label>Song Genre : </label>
+		<input type="text" name="genre"/><br>
+		
+		<label>Song Link : </label>
+		<input type="text" name="link"/><br>
+		
+		<input type="submit" value="Add Song">
+	</form> -->
+</body>
+</html>

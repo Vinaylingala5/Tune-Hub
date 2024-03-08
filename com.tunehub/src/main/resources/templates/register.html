@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<link rel="stylesheet" th:href="@{/css/register-style.css}">
+</head>
+<body>
+	
+	<div class="out-box">
+        <div class="in-box">
+            <div class="empt-box">
+                <h1> TuneHub. </h1>
+                <p>Glad youre joining the family!</p>
+            </div>
+            <div class="hr">
+            </div>
+            <div class="boxes">
+                <form action="register" method="post">
+                    <label class="labeltext"> User name : </label> 
+                    <input type="text" name="username" placeholder="username"/><br>
+
+                    <label class="labeltext"> Email : </label> 
+                    <input type="email" name="email" placeholder="@email"/><br>
+
+                    <label class="labeltext"> Password : </label> 
+                    <input type="password" name="password" placeholder="password"/><br> 
+
+                    <label class="labeltext"> Gender : </label> 
+                    <div class="radio">
+                        <input type="radio" name="gender" value="male" /> Male 
+                        <input type="radio" name="gender" value="female" /> Female
+                        <input type="radio" name="gender" value="others" /> Others <br>
+                    </div><br>
+
+                    <label class="labeltext">Role : </label>   
+                    <div class="radio">
+                        <input type="radio" name="role" value="admin" /> Admin 
+                        <input type="radio" name="role" value="customer" />Customer 
+                    </div><br> 
+
+                    <label class="labeltext"> Address : </label><input type="text" name="address" placeholder="address"/><br> 
+
+                    <input style="background-color: blueviolet;
+                                   height: 40px; 
+                                   color: white;
+                                   display: flex;
+                                   font-weight: 400;
+                                   border: 2px solid gray;
+                                   justify-content: center; 
+                                   padding-left: -10px;" id="submit" type="submit" value="Register" />
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
