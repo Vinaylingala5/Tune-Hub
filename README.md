@@ -1,7 +1,14 @@
 
-# TuneHub
+# TuneHub  
 
-TuneHub is an audio streaming web application that allows users to enjoy a wide range of songs. It offers a premium subscription for users to access additional features such as ad-free streaming and high-quality audio. For users who do not have a premium subscription, TuneHub provides an option to make payments through Razorpay to unlock premium features.
+  TuneHub is an audio streaming web application that allows 
+  users to enjoy a wide range of songs. It offers a premium 
+  subscription for users to access additional features such 
+  as ad-free streaming and high-quality audio. For users who 
+  do not have a premium subscription, TuneHub provides an 
+  option to make payments through Razorpay to unlock premium 
+  features.
+
 
 ## Features
 
