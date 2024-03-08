@@ -29,9 +29,6 @@
 
 We welcome contributions to TuneHub! If you'd like to contribute, please fork the repository and submit a pull request. You can also open an issue if you have any suggestions or find any bugs.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
