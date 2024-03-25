@@ -20,9 +20,9 @@
 - **Admin Panel**: Admins can upload songs to the platform.
 
 <p align="center">
-  <img src="Razor.png" alt="Tech Image" style="margin-right: 10px;">
-  <img src="Upload.png" alt="Nature Image" style="margin-right: 10px;">
-  <img src="Playlist.png" alt="Architecture Image">
+  <img src="Razor.png" alt="Tech Image" style="margin-right: 10px; width: 100px; height: 100px;">
+  <img src="Upload.png" alt="Nature Image" style="margin-right: 10px; width: 100px; height: 100px;">
+  <img src="Playlist.png" alt="Architecture Image" style="margin-right: 10px; width: 100px; height: 100px;">
 </p>
 
 ## Technologies Used
