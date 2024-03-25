@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="Razor.png" alt="Tech Image" style="margin-right: 70px; width: 150px; height: 100px;">
-  <img src="Upload.png" alt="Nature Image" style="margin-right: 70px; width: 150px; height: 100px;">
+  <img src="Upload.png" alt="Nature Image" style="margin-left: 70px; margin-right: 70px; width: 150px; height: 100px;">
   <img src="Playlist.png" alt="Architecture Image" style="margin-right: 70px; width: 150px; height: 100px;">
 </p>
 
