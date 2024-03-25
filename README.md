@@ -9,7 +9,7 @@
   option to make payments through Razorpay to unlock premium 
   features.
 
-
+<img src="Home.png"/>
 ## Features
 
 - **Streaming**: Listen to your favorite songs online.
