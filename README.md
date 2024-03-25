@@ -21,7 +21,7 @@
 - **Admin Panel**: Admins can upload songs to the platform.
 
 
-  <img src="upload.png">
+  <img src="Playlist.png">
 
 
 ## Technologies Used
