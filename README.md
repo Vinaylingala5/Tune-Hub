@@ -19,11 +19,11 @@
 - **Playlist Panel**: Admins can create playlists in the platform.
 - **Admin Panel**: Admins can upload songs to the platform.
 
-
-<div style="display:flex;justify-content:space-evenly;height:200px;">
-  <img src="Playlist.png"><img src="Razor.png"><img src="Upload.png">
-</div>
-
+<p align="center">
+  <img src="Razor.png" alt="Tech Image" style="margin-right: 10px;">
+  <img src="Upload.png" alt="Nature Image" style="margin-right: 10px;">
+  <img src="Playlist.png" alt="Architecture Image">
+</p>
 
 ## Technologies Used
 
