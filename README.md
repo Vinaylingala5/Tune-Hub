@@ -10,6 +10,9 @@
   features.
 
 <img src="Home.png"/>
+<img src="Join.png">
+
+
 ## Features
 
 - **Streaming**: Listen to your favorite songs online.
