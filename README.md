@@ -10,7 +10,6 @@
   features.
 
 <img src="Home.png"/>
-<img src="Join.png">
 
 
 ## Features
@@ -18,7 +17,18 @@
 - **Streaming**: Listen to your favorite songs online.
 - **Premium Subscription**: Unlock ad-free streaming and high-quality audio with a premium subscription.
 - **Payment Integration**: Securely make payments through Razorpay for premium subscriptions.
+  
+<img src="Razor.png">
+
+- **Playlist Panel**: Admins can create playlists in the platform.
+
+<img src="Playlist.png">
+
 - **Admin Panel**: Admins can upload songs to the platform.
+
+  <img src="Upload.png">
+
+
 
 ## Technologies Used
 
