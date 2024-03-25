@@ -9,8 +9,7 @@
   option to make payments through Razorpay to unlock premium 
   features.
 
-<img src="Home.png"/>
-
+  <img src="Home.png">
 
 ## Features
 
@@ -21,7 +20,9 @@
 - **Admin Panel**: Admins can upload songs to the platform.
 
 
-  <img src="Playlist.png">
+<div style="display:flex;justify-content:space-evenly;height:200px;">
+  <img src="Playlist.png"><img src="Razor.png"><img src="Upload.png">
+</div>
 
 
 ## Technologies Used
