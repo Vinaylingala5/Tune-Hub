@@ -38,8 +38,8 @@
 ## Screenshots
 
 <p align="center">
-      <img src="Screenshot-Login.png" style="width: 300px; height: 200px;">
-      <img src="Screenshot-Register.png" style="width: 300px; height: 200px;"  hspace="20">
+      <img src="Screenshot-Login.png" style="width: 375px; height: 250px;">
+      <img src="Screenshot-Register.png" style="width: 375px; height: 250px;"  hspace="20">
 </p>
 <p align="center">
       <img src="Screenshot-AddSong.png" style="width: 300px; height: 200px;">
