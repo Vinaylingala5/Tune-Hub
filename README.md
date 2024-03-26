@@ -38,16 +38,16 @@
 ## Screenshots
 
 <p align="center">
-      <img src="Screenshot-Login.png" style="width: 450px; height: 300px;">
-      <img src="Screenshot-Register.png" style="width: 450px; height: 300px;"  hspace="20">
+      <img src="Screenshot-Login.png" style="width: 300px; height: 200px;">
+      <img src="Screenshot-Register.png" style="width: 300px; height: 200px;"  hspace="20">
 </p>
 <p align="center">
-      <img src="Screenshot-AddSong.png" style="width: 450px; height: 300px;">
-      <img src="Screenshot-SongList.png" style="width: 450px; height: 300px;"  hspace="20">
+      <img src="Screenshot-AddSong.png" style="width: 300px; height: 200px;">
+      <img src="Screenshot-SongList.png" style="width: 300px; height: 200px;"  hspace="20">
 </p>
 <p align="center">
-      <img src="Screenshot-AddPlaylist.png" style="width: 450px; height: 300px;">
-      <img src="Screenshot-PlaylistList.png" style="width: 450px; height: 300px;"  hspace="20">
+      <img src="Screenshot-AddPlaylist.png" style="width: 300px; height: 200px;">
+      <img src="Screenshot-PlaylistList.png" style="width: 300px; height: 200px;"  hspace="20">
 </p>
 
 ## Contributing
