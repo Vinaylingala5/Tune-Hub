@@ -35,6 +35,21 @@
 - **Payment Integration**: Razorpay
 - **Tools**: Spring Tool Suite
 
+## Screenshots
+
+<p align="center">
+      <img src="Screenshot-Login.png" style="width: 450px; height: 300px;">
+      <img src="Screenshot-Register.png" style="width: 450px; height: 300px;"  hspace="20">
+</p>
+<p align="center">
+      <img src="Screenshot-AddSong.png" style="width: 450px; height: 300px;">
+      <img src="Screenshot-SongList.png" style="width: 450px; height: 300px;"  hspace="20">
+</p>
+<p align="center">
+      <img src="Screenshot-AddPlaylist.png" style="width: 450px; height: 300px;">
+      <img src="Screenshot-PlaylistList.png" style="width: 450px; height: 300px;"  hspace="20">
+</p>
+
 ## Contributing
 
 We welcome contributions to TuneHub! You can also open an issue if you have any suggestions or find any bugs. If you'd like to contribute, please fork the repository and submit a pull request or ping me 
