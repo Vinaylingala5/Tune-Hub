@@ -42,12 +42,12 @@
       <img src="Screenshot-Register.png" style="width: 390px; height: 260px;"  hspace="20">
 </p>
 <p align="center">
-      <img src="Screenshot-AddSong.png" style="width: 300px; height: 200px;">
-      <img src="Screenshot-SongList.png" style="width: 300px; height: 200px;"  hspace="20">
+      <img src="Screenshot-AddSong.png" style="width: 390px; height: 260px;">
+      <img src="Screenshot-SongList.png" style="width: 390px; height: 260px;"  hspace="20">
 </p>
 <p align="center">
-      <img src="Screenshot-AddPlaylist.png" style="width: 300px; height: 200px;">
-      <img src="Screenshot-PlaylistList.png" style="width: 300px; height: 200px;"  hspace="20">
+      <img src="Screenshot-AddPlaylist.png" style="width: 390px; height: 260px;">
+      <img src="Screenshot-PlaylistList.png" style="width: 390px; height: 260px;"  hspace="20">
 </p>
 
 ## Contributing
