@@ -46,6 +46,10 @@
       <img src="Screenshot-SongList.png" style="width: 390px; height: 260px;"  hspace="20">
 </p>
 <p align="center">
+      <img src="Screenshot-Pay.png" style="width: 390px; height: 260px;">
+      <img src="Screenshot-Payment.png" style="width: 390px; height: 260px;"  hspace="20">
+</p>
+<p align="center">
       <img src="Screenshot-AddPlaylist.png" style="width: 390px; height: 260px;">
       <img src="Screenshot-PlaylistList.png" style="width: 390px; height: 260px;"  hspace="20">
 </p>
